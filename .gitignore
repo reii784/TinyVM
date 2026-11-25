@@ -1,0 +1,15 @@
+# compiled binaries
+tinyvm
+*.o
+
+# debug files
+core
+core.*
+
+# editor stuff
+.vscode/
+.idea/
+
+# temporary files
+*.tmp
+*.log
